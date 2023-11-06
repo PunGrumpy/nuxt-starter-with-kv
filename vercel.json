@@ -1,0 +1,4 @@
+{
+  "buildCommand": "bun turbo build",
+  "ignoreCommand": "bun dlx turbo-ignore"
+}
