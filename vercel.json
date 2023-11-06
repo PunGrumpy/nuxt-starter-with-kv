@@ -1,4 +1,3 @@
 {
-  "buildCommand": "bun turbo build",
-  "ignoreCommand": "bunx turbo-ignore"
+  "buildCommand": "bun turbo build"
 }
